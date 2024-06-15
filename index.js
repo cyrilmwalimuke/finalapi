@@ -7,6 +7,6 @@ app.get( '/',(request,response)=>{
     })
 })
 
-app.listen(3000,()=>{
+app.listen(5000,()=>{
     console.log("App itrs running oo port 5000")
 });
