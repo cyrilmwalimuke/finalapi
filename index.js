@@ -6,6 +6,6 @@ app.listen(3000,()=>{
     console.log("App ceduueu itrs running oo port 5000")
 });
 app.get('/',(req,res)=>{
-    res.send('hello world')
+    res.send('hello there world')
 })
 
